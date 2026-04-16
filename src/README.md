@@ -25,6 +25,6 @@ O sistema realiza operações como cadastro, remoção, ordenação e cálculos 
 2. Abra o projeto no Eclipse
 3. Execute a classe:
 
-## 📊 Observações
+## Observações
 * Os salários são tratados com `BigDecimal` 
 * Datas são manipuladas com `LocalDate`
