@@ -24,6 +24,7 @@ O sistema realiza operações como cadastro, remoção, ordenação e cálculos 
 1. Clone o repositório:
 2. Abra o projeto no Eclipse
 3. Execute a classe:
+  Principal.java
 
 ## Observações
 * Os salários são tratados com `BigDecimal` 
